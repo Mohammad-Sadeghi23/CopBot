@@ -118,7 +118,6 @@ CopBot saves user data locally in plain text files. Here is how it works:
 ```plaintext
 copbot/
 ├── copbot.py       # Main application script
-├── requirements.txt # List of dependencies
 └── README.md        # Project documentation
 ```
 
