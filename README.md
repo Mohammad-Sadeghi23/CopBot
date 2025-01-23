@@ -67,7 +67,7 @@ pip install selenium webdriver-manager win10toast
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/copbot.git
+git clone https://github.com/Mohammad-Sadeghi23/copbot.git
 ```
 
 2. Navigate to the project directory:
