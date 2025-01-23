@@ -1,3 +1,6 @@
+# 🚨 Attention to make an account currently you need to make a text file with first line being your username and second line being the password. Then name the file as your username and remove the .txt extention in the file name leaving the file with no extention. Then place the file in to the same directory as CopBot.py.
+
+
 # CopBot Application
 
 CopBot is a Python-based automation tool designed specifically for automating tasks on the **online Supreme store**. However, please note that this code is **outdated** and may no longer work as intended due to changes in the Supreme website and modern browser compatibility requirements.
